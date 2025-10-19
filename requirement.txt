@@ -1,4 +1,5 @@
-fastapi
-uvicorn
-pydub
-requests
+azure-functions
+numpy
+librosa
+soundfile
+audioread
